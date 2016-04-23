@@ -1,0 +1,25 @@
+{
+  "name": "zetta-device-log-stream",
+  "version": "0.1.0",
+  "description": "Creates a log-messages stream on your zetta device. Will intercept user logs and publish them on this stream.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdobson/zetta-device-log-stream.git"
+  },
+  "keywords": [
+    "zetta",
+    "IoT",
+    "zettajs",
+    "streams"
+  ],
+  "author": "Matthew Dobson <@mdobs>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mdobson/zetta-device-log-stream/issues"
+  },
+  "homepage": "https://github.com/mdobson/zetta-device-log-stream#readme"
+}
